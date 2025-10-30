@@ -118,4 +118,4 @@ with tab2:
 # Footer
 # -------------------------
 st.divider()
-st.caption("🚀 Developed by Omkar | Powered by Streamlit & scikit-learn")
+st.caption("🚀 Developed by Omkar Kashid | Powered by Streamlit & scikit-learn")
